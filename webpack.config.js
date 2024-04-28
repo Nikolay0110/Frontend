@@ -8,7 +8,7 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
     },
     devServer: {
-        port: 9000,
+        port: 8080,
         static: '/home/nikolay/Projects/JavaScript_HW/modules/dist/main.html',
         open: true
     },
