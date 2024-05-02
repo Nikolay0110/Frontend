@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/iis602u778824dih?svg=true)](https://ci.appveyor.com/project/Nikolay0110/frontend)
+
 # Домашнее задание к занятию "7. Работа с HTTP"
 
 Правила сдачи задания:
